@@ -60,3 +60,6 @@ Generator(
 -Epochs	200
 
 -Lambda GP	10
+
+
+![Моя фотография](C:\Users\Fedor\Desktop/40ep.jpg)
