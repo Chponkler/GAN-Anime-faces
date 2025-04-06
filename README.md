@@ -61,5 +61,9 @@ Generator(
 
 -Lambda GP	10
 
+пример 40 эпох обучения
+![image](https://github.com/user-attachments/assets/340c6990-3a62-461b-a29e-b9d4f5dd9f87)
 
-![Моя фотография](C:\Users\Fedor\Desktop/40ep.jpg)
+пример 50 эпох обучения
+![image](https://github.com/user-attachments/assets/797cb75f-cac8-408b-a1d9-45bdd2108865)
+
