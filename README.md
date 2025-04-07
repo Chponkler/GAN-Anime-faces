@@ -68,3 +68,8 @@ Generator(
 ![image](https://github.com/user-attachments/assets/797cb75f-cac8-408b-a1d9-45bdd2108865)
 
 для лучшего результата стоит обучить хотябы до 200 эпохи (в силу нехватки вычислитоельной мощности моего пк я остановился на 50 эпохе)
+
+![image](https://github.com/user-attachments/assets/cd98ab61-599a-4f97-9009-0bfe0b4794a4)
+
+пример генерации с сохраненными весами на 50 эпоху
+
